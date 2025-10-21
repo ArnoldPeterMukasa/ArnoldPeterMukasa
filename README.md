@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m *Tagoole David*!
+# 👋 Hi there, I’m *Arnold Peter Mukasa*!
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Python+%7C+Dart+%7C+C+%7C+TypeScript;Django+%7C+DRF+%7C+Flutter+%7C+Angular;Backend+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%94%A5;Lifelong+Learner+%F0%9F%8C%9F)
 
