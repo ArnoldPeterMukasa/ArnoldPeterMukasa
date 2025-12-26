@@ -11,7 +11,8 @@ Here you'll find a collection of projects, experiments, and open-source contribu
 
 I'm a full-stack software developer with a passion for building robust backend systems, scalable web applications, and meaningful solutions that solve real-world problems.
 
->> Currently working on: Building an EPICEVENTS Systems and web applications
+>> Currently working on: Building an EPICEVENTS Systems and web applications 
+>>> Currently Building a Minimax Game 
 >> Learning: Advanced C++, Machine Learning, Data Science, .net
 >> Ask me about: Django, React, Flask, REST APIs, Database Design, PHP
 >> Open to collaboration on: Backend projects, Full-stack applications, Open source
@@ -48,7 +49,7 @@ I'm a full-stack software developer with a passion for building robust backend s
 ## Connect With Me
   
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/arnold_mukasa)  
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.ap.mukasa@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myglobaladdresssystem@gmail.com)
 
 ---
 
