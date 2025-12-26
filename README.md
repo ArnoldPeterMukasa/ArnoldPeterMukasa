@@ -11,8 +11,8 @@ Here you'll find a collection of projects, experiments, and open-source contribu
 
 I'm a full-stack software developer with a passion for building robust backend systems, scalable web applications, and meaningful solutions that solve real-world problems.
 
->> Currently working on: Building and EPICEVENTS systems and web applications
->> Learning: Advanced C++, Machine Learning, Data Science
+>> Currently working on: Building an EPICEVENTS Systems and web applications
+>> Learning: Advanced C++, Machine Learning, Data Science, .net
 >> Ask me about: Django, React, Flask, REST APIs, Database Design, PHP
 >> Open to collaboration on: Backend projects, Full-stack applications, Open source
 
@@ -33,7 +33,7 @@ I'm a full-stack software developer with a passion for building robust backend s
 ## Featured Projects
 
 - 🔗 [*Reclaim Space*](https://reclaim-space-df557.web.app)  
-  A web application **#LOST&FOUND APP** hosted on Firebase for efficient space management and optimization
+  A web application(android mobile app) **#LOST&FOUND APP** hosted on Firebase for efficient space management and optimization
 
 
 ---
