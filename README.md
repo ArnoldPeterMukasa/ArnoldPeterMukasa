@@ -23,7 +23,7 @@ I'm a full-stack software developer with a passion for building robust backend s
 
 | Category         | Tools & Languages |
 |------------------|-------------------|
-| *Languages*    | Python, PHP, C++, Java, Dart, Flutter GO soon|
+| *Languages*    | Python, PHP, C++, Java, Dart, Flutter learning GO and .net|
 | *Frameworks*   | Django, Django REST Framework, Flask, React |
 | *Databases*    | MySQL, PostgreSQL |
 | *Tools*        | Git, Docker, VS Code, Firebase, Windsurf |
