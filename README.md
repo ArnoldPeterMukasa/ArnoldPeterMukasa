@@ -35,8 +35,8 @@ I'm a full-stack software developer with a passion for building robust backend s
 
 - 🔗 [*Reclaim Space*](https://reclaim-space-df557.web.app)  
   A web application(android mobile app) **#LOST&FOUND APP** hosted on Firebase for efficient space management and optimization 
- 
-- 🔗 https://aits-group-g-gcyp.vercel.app/
+ - 🔗 https://aits-group-g-gcyp.vercel.app/ 
+   An Academic Issue Tracking System developed with my teammates(G-Team) and reaching out to all of us, u may contact us on our email: info.groupg.aits@gmail.com
 ---
 
 ## GitHub Stats
