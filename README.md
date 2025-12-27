@@ -9,7 +9,7 @@ Here you'll find a collection of projects, experiments, and open-source contribu
 
 ## About Me
 
-I'm a full-stack software developer with a passion for building robust backend systems, scalable web applications, and meaningful solutions that solve real-world problems.
+I'm a full-stack software developer with a passion for building robust backend systems, scalable web applications, and meaningful solutions that solve real world problems.
 
 >> Currently working on: Building an EPICEVENTS Systems and web applications 
 >>> Currently Building a Minimax Game 
