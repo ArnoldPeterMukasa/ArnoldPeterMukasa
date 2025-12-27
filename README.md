@@ -27,7 +27,7 @@ I'm a full-stack software developer with a passion for building robust backend s
 | *Frameworks*   | Django, Django REST Framework, Flask, React |
 | *Databases*    | MySQL, PostgreSQL |
 | *Tools*        | Git, Docker, VS Code, Firebase, Windsurf |
-| *Platforms*    | Linux, Heroku, Firebase Hosting |
+| *Platforms*    | Linux, Heroku, Firebase Hosting Superbase|
 
 ---
 
