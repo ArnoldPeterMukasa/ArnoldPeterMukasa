@@ -42,7 +42,10 @@ I am a full-stack software developer focused on architectural integrity and perf
 ## GitHub Stats
 
 ![Arnold's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnoldPeterMukasa&show_icons=true&theme=radical)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldPeterMukasa&layout=compact&theme=radical)
+
+
 
 ---
 
