@@ -3,8 +3,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+corner!;Building+scalable+backend+systems;Python+%7C+Django+%7C+React+%7C+PostgreSQL;Lifelong+Learner)
 
-*Welcome to my corner of the internet!* 
-I build robust backend systems, scalable web applications, and software solutions designed to solve real-world problems.
+> *Welcome to my corner of the internet!*
+> I build robust backend systems, scalable web applications, and software solutions designed to solve real-world problems.
 
 ---
 
