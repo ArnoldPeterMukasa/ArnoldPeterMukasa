@@ -1,38 +1,40 @@
-# Hello World!, I'm *Arnold Peter Mukasa*!
+# Hello World, I'm Arnold Peter Mukasa
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Python+%7C+PHP+%7C+C%2B%2B+%7C+Java;Django+%7C+Flask+%7C+React+%7C+DRF;Full+Stack+Developer;Backend+Specialist;Lifelong+Learner)
 
-*Welcome to Arnold Peter's Corner!*   
-Here you'll find a collection of projects, experiments, and open-source contributions.
+*Welcome to my corner of the internet!* I build robust backend systems, scalable web applications, and software solutions designed to solve real-world problems.
 
 ---
 
 ## About Me
 
-I'm a full-stack software developer with a passion for building robust backend systems, scalable web applications, and meaningful solutions that solve real world problems.
+I am a full-stack software developer focused on architectural integrity and performance.
 
-> **Currently working on:** Building an EPICEVENTS Systems and web applications  
-> **Learning:** Advanced programming, Machine Learning, Data Science, .net  
-> **Ask me about:** Django, React, Flask, REST APIs, PHP, Database MS...
+> **Currently working on:** EPICEVENTS System and enterprise web applications.  
+> **Learning:** Machine Learning, Data Science, Go, and .NET.  
+> **Ask me about:** Django, React, REST API Design, and Database Architecture.
+
+---
 
 ## Technologies & Tools
 
-| Category         | Tools & Languages |
-|------------------|-------------------|
-| *Languages*    | Python, PHP, C++, Java, Dart, Flutter learning GO and .net|
-| *Frameworks*   | Django, Django REST Framework, Flask, React |
-| *Databases*    | MySQL, PostgreSQL |
-| *Tools*        | Git, Docker, VS Code, Firebase, Windsurf, Superbase |
-| *Platforms*    | Linux, Heroku, Firebase Hosting |
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Python, PHP, C++, Java, Dart, JavaScript |
+| **Frameworks** | Django, Django REST Framework, Flask, React, Flutter |
+| **Databases** | MySQL, PostgreSQL, Firebase |
+| **Tools** | Git, Docker, Supabase, Windsurf, VS Code |
+| **Platforms** | Linux, Heroku, Vercel |
 
 ---
 
 ## Featured Projects
 
-- 🔗 [*Reclaim Space*](https://reclaim-space-df557.web.app)  
-  A web application(android mobile app) **#LOST&FOUND APP** hosted on Firebase for efficient space management and optimization 
- - 🔗 https://aits-group-g-gcyp.vercel.app/ 
-   An Academic Issue Tracking System developed with my teammates(G-Team) and reaching out to all of us, u may contact us on our email: info.groupg.aits@gmail.com
+* 🔗 **[Reclaim Space](https://reclaim-space-df557.web.app)** A specialized application for efficient space management and asset optimization, integrated with Firebase.
+    
+* 🔗 **[Academic Issue Tracking System](https://aits-group-g-gcyp.vercel.app/)** A collaborative full-stack platform developed with **G-Team** to streamline academic reporting.  
+    *Contact the team: info.groupg.aits@gmail.com*
+
 ---
 
 ## GitHub Stats
@@ -43,13 +45,10 @@ I'm a full-stack software developer with a passion for building robust backend s
 ---
 
 ## Connect With Me
-  
+
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/arnold_mukasa)  
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myglobaladdresssystem@gmail.com)
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration.
-
-> "Code is like humor. When you have to explain it, it's bad." — Cory House 
-> "Every move has a cost" - Arnold Peter Mukasa
+> "Code is like humor. When you have to explain it, it's bad." — *Cory House* > "Every move has a cost." — *Arnold Peter Mukasa*
