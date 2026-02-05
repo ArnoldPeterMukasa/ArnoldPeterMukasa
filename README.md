@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Python+%7C+PHP+%7C+C%2B%2B+%7C+Java;Django+%7C+Flask+%7C+React+%7C+DRF;Full+Stack+Developer+%F0%9F%92%BB;Backend+Specialist+%F0%9F%94%A5;Lifelong+Learner+%F0%9F%8C%9F)
 
-Welcome to Arnold Peter's Corner!   
+*Welcome to Arnold Peter's Corner!*   
 Here you'll find a collection of projects, experiments, and open-source contributions.
 
 ---
@@ -13,8 +13,8 @@ I'm a full-stack software developer with a passion for building robust backend s
 
 >> Currently working on: Building an EPICEVENTS Systems and web applications 
 >>> Currently Building a Minimax Game 
->> Learning: Advanced C++, Machine Learning, Data Science, .net
->> Ask me about: Django, React, Flask, REST APIs, Database Design, PHP
+>> Learning: Advanced programming, Machine Learning, Data Science, .net
+>> Ask me about: Django, React, Flask, REST APIs, Database Design, PHP, C/C++
 >> Open to collaboration on: Backend projects, Full-stack applications, Open source
 
 ---
