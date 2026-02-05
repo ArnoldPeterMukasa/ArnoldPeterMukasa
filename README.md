@@ -41,7 +41,7 @@ I am a full-stack software developer focused on architectural integrity and perf
 
 ## Connect With Me
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/arnold_mukasa)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/info_ap_mukasa)  
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myglobaladdresssystem@gmail.com)
 
 ---
