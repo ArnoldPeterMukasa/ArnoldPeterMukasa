@@ -11,16 +11,9 @@ Here you'll find a collection of projects, experiments, and open-source contribu
 
 I'm a full-stack software developer with a passion for building robust backend systems, scalable web applications, and meaningful solutions that solve real world problems.
 
->>> Currently working on: Building an EPICEVENTS Systems and web applications
->>
->>Currently Building a Minimax Game
->>
->>> Learning: Advanced programming, Machine Learning, Data Science, .net
->>
->>> Ask me about: Django, React, Flask, REST APIs, Database Design, PHP, C/C++
->>
->>> Open to collaboration on: Backend projects, Full-stack applications, Open source
-
+> **Currently working on:** Building an EPICEVENTS Systems and web applications  
+> **Learning:** Advanced programming, Machine Learning, Data Science, .net  
+> **Ask me about:** Django, React, Flask, REST APIs...
 
 ## Technologies & Tools
 
