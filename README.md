@@ -51,4 +51,5 @@ I am a full-stack software developer focused on architectural integrity and perf
 
 ---
 
-> "Code is like humor. When you have to explain it, it's bad." — *Cory House* > "Every move has a cost." — *Arnold Peter Mukasa*
+> "Code is like humor. When you have to explain it, it's bad." — *Cory House*
+> "Every move has a cost." — *Arnold Peter Mukasa*
