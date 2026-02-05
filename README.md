@@ -41,14 +41,11 @@ I am a full-stack software developer focused on architectural integrity and perf
 
 ## GitHub Stats
 
-![Arnold's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnoldPeterMukasa&show_icons=true&theme=radical)  
+![Arnold's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnoldPeterMukasa&show_icons=true&theme=radical&count_private=true)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldPeterMukasa&layout=compact&theme=radical)
 
-
-
 ---
-
 ## Connect With Me
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/arnold_mukasa)  
