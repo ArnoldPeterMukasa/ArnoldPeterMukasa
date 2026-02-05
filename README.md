@@ -13,12 +13,14 @@ I'm a full-stack software developer with a passion for building robust backend s
 
 >>> Currently working on: Building an EPICEVENTS Systems and web applications
 >>
+>>Currently Building a Minimax Game
+>>
 >>> Learning: Advanced programming, Machine Learning, Data Science, .net
 >>
 >>> Ask me about: Django, React, Flask, REST APIs, Database Design, PHP, C/C++
 >>
 >>> Open to collaboration on: Backend projects, Full-stack applications, Open source
-Currently Building a Minimax Game
+
 
 ## Technologies & Tools
 
